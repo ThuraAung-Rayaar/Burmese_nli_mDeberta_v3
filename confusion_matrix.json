@@ -1,0 +1,12 @@
+{
+  "labels": ["entailment", "neutral", "contradiction"],
+  "axis_description": {
+    "x": "Predicted Label",
+    "y": "Actual Label"
+  },
+  "data": [
+    [426, 55, 54],
+    [115, 342, 54],
+    [42, 57, 405]
+  ]
+}
